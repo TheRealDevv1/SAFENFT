@@ -1,0 +1,28 @@
+{
+  "name": "dappsafe",
+  "version": "1.0.0",
+  "description": "a dapp for nxtgen",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "nmlm",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.2",
+    "create-react-app": "^4.0.3",
+    "ganache-cli": "^6.12.2",
+    "loaders": "^1.1.3",
+    "walletconnect": "^1.6.5",
+    "web3": "^1.3.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmlm99/NxtGem.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nmlm99/NxtGem.io/issues"
+  },
+  "homepage": "https://github.com/nmlm99/NxtGem.io#readme"
+}
